@@ -1,5 +1,6 @@
 # Client java
- [ ![Download](https://api.bintray.com/packages/epam/reportportal/client-java/images/download.svg) ](https://bintray.com/epam/reportportal/client-java/_latestVersion)
+ [ ![Download](https://api.bintray.com/packages/epam/reportportal/client-java/images/download.svg) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHardNorth%2Fclient-java.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHardNorth%2Fclient-java?ref=badge_shield)
+](https://bintray.com/epam/reportportal/client-java/_latestVersion)
  
 [![Join Slack chat!](https://reportportal-slack-auto.herokuapp.com/badge.svg)](https://reportportal-slack-auto.herokuapp.com)
 [![stackoverflow](https://img.shields.io/badge/reportportal-stackoverflow-orange.svg?style=flat)](http://stackoverflow.com/questions/tagged/reportportal)
@@ -107,3 +108,7 @@ If listener can’t find properties file it throws FileNotFoundException.
 By default “reportportal.properties” exists in the reportportall-client.jar, 
 but user can create his own “reportportal.properties” file and put in class path.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHardNorth%2Fclient-java.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHardNorth%2Fclient-java?ref=badge_large)
